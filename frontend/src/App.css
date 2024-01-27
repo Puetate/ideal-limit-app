@@ -1,0 +1,9 @@
+body,
+html,
+#root {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    background: rgb(52, 68, 189);
+    background: linear-gradient(0deg, rgba(52, 68, 189, 1) 0%, rgba(18, 21, 71, 1) 100%);
+}
